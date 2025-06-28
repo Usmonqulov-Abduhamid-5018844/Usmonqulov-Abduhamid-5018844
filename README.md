@@ -12,10 +12,21 @@ CRUD-based API with JWT authentication.
 **Tech:** NestJS, TypeORM, Docker  
 A scalable backend for an online store with product, order, and user management.
 
-### 📌 Telegram Weather Bot
-**Tech:** Node.js, Telegram Bot API, OpenWeatherMap  
-A bot that returns real-time weather based on user input.
+📌 Najot Ta’lim Oshxona Telegram Bot 🍽
+Tech: Node.js, NestJS, Telegraf.js, PostgreSQL, TypeORM
+A Telegram bot developed for managing daily food menus, collecting user ratings, and providing interactive food selection via inline keyboards.
 
+Features:
+
+Daily menu display with categories like "Osh", "Xonim", etc.
+
+User-friendly inline buttons for selecting dishes.
+
+One-time rating system (1–5) for feedback collection.
+
+Admin panel for managing dishes and viewing top-rated meals.
+
+Real-time interactions via Webhook or polling.
 ---
 
 ## 📫 Contact Me
