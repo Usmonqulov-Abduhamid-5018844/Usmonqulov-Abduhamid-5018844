@@ -13,7 +13,7 @@ CRUD-based API with JWT authentication.
 A scalable backend for an online store with product, order, and user management.
 
 📌 Najot Ta’lim Oshxona Telegram Bot 🍽
-Tech: Node.js, NestJS, Telegraf.js, PostgreSQL, TypeORM
+**Tech:** Node.js, NestJS, Telegraf.js, PostgreSQL, TypeORM
 A Telegram bot developed for managing daily food menus, collecting user ratings, and providing interactive food selection via inline keyboards.
 
 Features:
