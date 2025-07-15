@@ -1,18 +1,23 @@
-# 👋 Hello! I'm Abduhamid Usmonqulov
+# 👋 Salom! Men — Abduhamid Usmonqulov
 
-I'm a backend developer with experience in building RESTful APIs using Node.js, NestJS, and PostgreSQL.
+Backend dasturchiman. RESTful API, Telegram botlar va zamonaviy backend texnologiyalari bilan ishlash bo‘yicha tajribam bor. Asosan Node.js, NestJS va PostgreSQL’dan foydalanaman.
 
-## 🔧 Projects
+---
 
-### 📌 Barber Shop – Soch Soch Turmaklash Telegram Bot ✂️  
-**Tech:** NestJS, Telegraf.js, Prisma ORM, PostgreSQL 
+## 🚀 Loyihalarim
 
-### 📌 Zinnur Akademiyasi – Arab Tili O‘rganish Telegram Bot 🕌 
-**Tech:** NestJS, Telegraf.js, Prisma ORM, PostgreSQL
+### ✂️ Barber Shop — Soch Soch Turmaklash Telegram Bot
+**Texnologiyalar:** NestJS, Telegraf.js, Prisma ORM, PostgreSQL
 
-### 📌 Najot Ta’lim Oshxona Telegram Bot 🍽
-**Tech:** Node.js, NestJS, Telegraf.js, PostgreSQL, TypeORM
+### 🕌 Zinnur Akademiyasi — Arab Tili O‘rganish Telegram Bot
+**Texnologiyalar:** NestJS, Telegraf.js, Prisma ORM, PostgreSQL
 
-## 📫 Contact Me
+### 🍽 Najot Ta’lim Oshxona Telegram Bot
+**Texnologiyalar:** Node.js, NestJS, Telegraf.js, PostgreSQL, TypeORM
+
+---
+
+## 📫 Muloqot uchun
+
 - Telegram: [@Abduhamid_1852](https://t.me/Abduhamid_1852)
 - GitHub: [Usmonqulov-Abduhamid](https://github.com/Usmonqulov-Abduhamid-5018844)
