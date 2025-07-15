@@ -6,7 +6,7 @@ Backend dasturchiman. RESTful API, Telegram botlar va zamonaviy backend texnolog
 
 ## 🚀 Loyihalarim
 
-### ✂️ Barber Shop — Soch Soch Turmaklash Telegram Bot
+### ✂️ Barber Shop — Soch Soch Turmaklash web sayt
 **Texnologiyalar:** NestJS, Telegraf.js, Prisma ORM, PostgreSQL
 
 ### 🕌 Zinnur Akademiyasi — Arab Tili O‘rganish Telegram Bot
