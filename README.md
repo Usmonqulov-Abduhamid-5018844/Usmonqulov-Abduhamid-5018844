@@ -28,13 +28,14 @@ I mainly work with:
 
 **Technologies:** Node.js, NestJS, Telegraf.js, PostgreSQL, TypeORM
 
-### 🎬 Movie App — Online Movie Library (FullStack)
+### 🎬 Movie App — Online Movie Library (Frontend Only)  
+> Built the frontend part using a ready-made API.  
+**Technologies:** React.js, TanStack Query, Redux Toolkit, React Router, TailwindCSS  
 
-**Technologies:** React.js, Next.js, NestJS, Prisma ORM, PostgreSQL
 
-### 🛒 E-Commerce Platform (FullStack)
-
-**Technologies:** Next.js, React.js, NestJS, Prisma ORM, PostgreSQL
+### 🛒 E-Commerce Platform (Frontend Only)  
+> Built the frontend part in React.js (backend not implemented yet).  
+**Technologies:** React.js, Redux Toolkit, Axios, React Router, TailwindCSS  
 
 ---
 
