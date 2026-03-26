@@ -5,6 +5,12 @@ I mainly work with:
 
 ## 🚀 Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,react,nextjs,postgres,mysql,mongodb,prisma" />
+</p>
+
+---
+
 ### 🧠 Backend
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
@@ -31,7 +37,30 @@ I mainly work with:
 [![TypeORM](https://img.shields.io/badge/TypeORM-FF6F00?style=for-the-badge&logo=typeorm&logoColor=white)](https://typeorm.io/)
 [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)
 
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Usmonqulov Abduhamid&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usmonqulov Abduhamid&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Usmonqulov Abduhamid&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
