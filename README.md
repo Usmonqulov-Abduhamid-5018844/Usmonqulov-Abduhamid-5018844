@@ -41,6 +41,23 @@ I enjoy working with modern technologies and creating efficient, real-world appl
 
 ---
 
+### ⚽ Stadium Booking System — Telegram Bot & Backend
+> A complete stadium reservation system with real-time booking, payment integration, and QR-based check-in.
+
+**✨ Features:**
+- 📅 Stadion band qilish (real-time slot system)
+- 💳 Online to‘lov (Click / Payme integratsiya)
+- ⏳ Bron muddati (auto cancel with cron)
+- 🎫 QR code orqali check-in tizimi
+- 📍 Google Maps orqali manzil ko‘rish
+- 👤 Role system (Admin / Manager / User)
+- 🌐 Ko‘p tilli qo‘llab-quvvatlash (i18n)
+
+**🛠 Tech Stack:**
+NestJS, Telegraf.js, Prisma ORM, PostgreSQL, JWT, Cron Jobs
+
+---
+
 ## 🚀 My Projects
 
 ### ✂️ Barber Shop — Haircut Booking System
