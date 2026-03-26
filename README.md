@@ -1,65 +1,102 @@
-# 👋 Hi! I'm Abduhamid Usmonqulov
+<h1 align="center">👋 Hi, I'm Abduhamid Usmonqulov</h1>
 
-I'm a **FullStack Developer** with experience in building RESTful APIs, Telegram bots, and modern **backend** as well as **frontend** applications.
-I mainly work with:
+<p align="center">
+  🚀 FullStack Developer | Backend Enthusiast | Telegram Bot Developer
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+I am a passionate **FullStack Developer** specializing in building scalable backend systems, RESTful APIs, and Telegram bots.  
+I enjoy working with modern technologies and creating efficient, real-world applications.
+
+---
 
 ## 🚀 Tech Stack
 
-## 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,react,nextjs,postgres,mysql,mongodb,prisma" />
+</p>
 
 ### 🧠 Backend
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-
----
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 ### 🎨 Frontend
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
----
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### 🗄️ Database
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
----
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ### ⚙️ ORM & Tools
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
-[![TypeORM](https://img.shields.io/badge/TypeORM-FF6F00?style=for-the-badge&logo=typeorm&logoColor=white)](https://typeorm.io/)
-[![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![TypeORM](https://img.shields.io/badge/TypeORM-FF6F00?style=flat&logo=typeorm&logoColor=white)](https://typeorm.io/)
+[![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)](https://sequelize.org/)
 
+---
 
 ## 🚀 My Projects
 
-### ✂️ Barber Shop — Haircut Booking Web Application
-
-**Technologies:** NestJS, Telegraf.js, Prisma ORM, PostgreSQL
-
-### 🕌 Zinnur Academy — Arabic Learning Telegram Bot
-
-**Technologies:** NestJS, Telegraf.js, Prisma ORM, PostgreSQL
-
-### 🍽 Najot Ta’lim Kitchen — Restaurant Telegram Bot
-
-**Technologies:** Node.js, NestJS, Telegraf.js, PostgreSQL, TypeORM
-
-### 🎬 Movie App — Online Movie Library (Frontend Only)  
-> Built the frontend part using a ready-made API.  
-**Technologies:** React.js, TanStack Query, Redux Toolkit, React Router, TailwindCSS  
-
-
-### 🛒 E-Commerce Platform (Frontend Only)  
-> Built the frontend part in React.js (backend not implemented yet).  
-**Technologies:** React.js, Redux Toolkit, Axios, React Router, TailwindCSS  
+### ✂️ Barber Shop — Haircut Booking System
+> A full-featured booking platform with Telegram bot integration  
+**Tech:** NestJS, Telegraf.js, Prisma, PostgreSQL
 
 ---
 
-## 📫 Contact
+### 🕌 Zinnur Academy — Arabic Learning Bot
+> Telegram bot for managing courses and student interaction  
+**Tech:** NestJS, Telegraf.js, Prisma, PostgreSQL
 
-* Telegram: [@Abduhamid_1852](https://t.me/Abduhamid_1852)
-* GitHub: [Usmonqulov-Abduhamid](https://github.com/Usmonqulov-Abduhamid-5018844)
+---
+
+### 🍽 Najot Ta’lim Kitchen — Restaurant Bot
+> Food ordering and management system via Telegram  
+**Tech:** Node.js, NestJS, Telegraf.js, PostgreSQL, TypeORM
+
+---
+
+### 🎬 Movie App (Frontend)
+> Movie browsing app using external API  
+**Tech:** React, TanStack Query, Redux Toolkit, TailwindCSS
+
+---
+
+### 🛒 E-Commerce (Frontend)
+> Online shop UI with state management  
+**Tech:** React, Redux Toolkit, Axios, TailwindCSS
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Usmonqulov-Abduhamid-5018844&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usmonqulov-Abduhamid-5018844&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Usmonqulov-Abduhamid-5018844&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+- 📩 Telegram: https://t.me/Abduhamid_1852  
+- 💻 GitHub: https://github.com/Usmonqulov-Abduhamid-5018844  
+
+---
+
+<p align="center">
+  ⭐️ If you like my work, feel free to give a star!
+</p>
